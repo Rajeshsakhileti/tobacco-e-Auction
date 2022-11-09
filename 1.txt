@@ -1,0 +1,5 @@
+hi this is the e-auciton master copy the file 
+
+anyone changes have to master copy before your are created the anothe branch 
+and push the code master to our created branch after that any changes to this
+this branch 
